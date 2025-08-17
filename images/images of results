@@ -1,1 +1,32 @@
-Results
+## Results
+
+After completing the lab, the following results were observed:
+
+### 🔹 Switch (S1)
+- Successfully configured hostname: **S1**
+- Console password set (`cisco`)
+- Enable secret password set (`class`)
+- MOTD banner displayed:
+- Configuration saved to NVRAM:
+
+---
+
+### 🔹 Router (R1)
+- Successfully configured hostname: **R1**
+- Console password set (`cisco`)
+- Enable secret password set (`class`)
+- MOTD banner displayed:
+
+---
+
+### 🔹 Login Verification
+- Upon reconnecting via console:
+- MOTD banner was displayed
+- Password prompt appeared
+- Access granted after entering console password
+- `enable` command required secret password before privileged EXEC mode access
+
+---
+
+✅ **Result:** Both switch and router are secured with hostnames, console and privileged access passwords, login banner, and saved configuration.
+put i
