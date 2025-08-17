@@ -1,1 +1,28 @@
-a
+Security Configuration 🚀
+
+📌 Overview 
+This hands-on lab teaches:  
+- Connecting PC1 → S1 → R1 cable in Cisco Packet Tracer  
+- Configure hostnames  
+- Configure passwords (Console + Privileged EXEC)  
+- Configure MOTD login banner  
+- Save configuration to NVRAM 
+
+
+
+How to View the Lab
+1. Download the .pka file from this repository.  
+2. Open it in Cisco Packet Tracer.  
+3. Follow the step-by-step lab instructions in the docx file.
+
+
+
+Repository Contents
+- security configuration.pkt — Packet Tracer lab file.  
+- Navigate_the_IOS.docx — Detailed lab instructions.  
+- images/ — All screenshots used in this README.
+
+
+
+License
+MIT License.
